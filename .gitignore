@@ -14,3 +14,4 @@ npm-debug.log
 yarn-error.log
 .idea/*
 .docker/db_app_v3_data/*
+.history
